@@ -1,0 +1,272 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'PT Serif', serif;
+}
+
+.top{
+    
+}
+
+
+.img1{
+        
+        float: left;
+      height: 40%;
+      width: 45%;
+       
+    
+}
+
+.img1 img{
+    height: 500px;
+    width: 500px;
+    padding-left: 80px;
+    margin-top: 12px;
+
+}
+
+.one-half{
+    background-image: url(image/top-banner.png);
+    background-repeat: no-repeat;
+    padding: 10px;
+    margin: 11px;
+    opacity: 110%;
+    
+height: 60%;
+width: 50%;
+float: left;
+}
+.one-half h1 {
+    font-size: 50px;
+
+    h1.per {
+      background-color: antiquewhite;
+      color: coral;
+  }
+}
+.per hover: {
+    color: lightgrey;
+    background-color: darkorchid;
+    border-radius: 20px;
+    text-align: center;
+}
+
+h1.per:hover {
+    
+    color: rgb(233, 47, 93);
+    font-style: italic;
+    text-align: right;
+    text-shadow: 2px 2px #ff0000;
+
+  }
+  .link-button{
+      font-size: 20px;
+    text-decoration: none;
+    background-color: rgb(82, 108, 255);
+    color: rgb(255, 255, 255);
+    margin: 200px;
+    padding: 15px;
+    
+    border-radius: 24px;
+    line-height: 48px;
+
+  }
+
+.highlite{
+    color: orange;
+}
+
+p{
+    color: dimgrey;
+}
+
+.text{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    text-shadow: 3px;
+
+}
+
+ img {
+    width: 100%;
+}
+
+.top{
+    background-image: url("image/top-banner.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, orangered, orange);
+    background-color: orangered;
+    padding: 10px 25px;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.next-text{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    text-shadow: 3px;
+    padding-left: 2%;
+    text-indent: 30px;
+}
+
+.next{
+    background-image: url("image/dream-bg.png");
+    background-repeat: no-repeat;
+background-position: right;
+}
+ 
+.resume{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, orangered, orange);
+    background-color: orangered;
+    padding: 10px 25px;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+}
+.text h1   {
+    font-size: 50px;
+}
+
+.next-text h1 {
+    font-size: 50px;
+}
+
+.next-text p{
+    ;
+    font-size: 20px;
+}
+.me{
+    font-size: 40px;
+    text-align: center;
+}
+
+.color{
+    color: orange;
+}
+
+.next-div{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    text-shadow: 3px;
+    box-shadow: 10px 10px 40px gray;
+    height: 65%;
+    background-color: white;
+}
+
+.experiencr{
+    background-image: url("image/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    
+}
+
+#full{
+    border-left: 8px solid;
+    border-image: linear-gradient( 180deg, rgba(201, 71, 61, 0.1), rgb(105, 9, 196); 221));
+    border-image-slice: 1;
+}
+
+#web{
+    border-left: 8px solid;
+    border-image: linear-gradient( 180deg, rgb(110, 110, 110), rgb(64, 65, 158));
+    border-image-slice: 1;
+}
+
+footer p{
+    text-align: center;
+}
+
+.next-div:hover{
+    font-size: 20px;
+    font-style: initial;
+    background-color:whitesmoke;
+}
+
+.bond{
+    display: inline-block;
+    width: 30%;
+    float: left;
+    margin: 15px;
+    text-align: center;
+    text-shadow: 3px;
+    box-shadow: 10px 10px 40px gray;
+    height: 30%;
+    background-color: white;
+    border: 2px solid orangered;
+    border-radius: 10px ;
+    
+}
+
+.bond h2{
+    color: orange;
+}
+
+.shawon{
+    text-align: center;
+    font-weight: bold;
+}
+
+.bond:hover{
+    font-size: 17px;
+    font-style: initial;
+    background-color: rgb(39, 89, 252);
+    color: aliceblue;
+}
+
+.bond p{
+    color: black;
+}
+
+.bond p:hover{
+    color: wheat;
+}
+
+
+
+.pro-1{
+
+    width: 30%;
+    height: 300px;
+    padding-left: 30px;
+    float: left;
+}
+.pro-2{
+
+    width: 30%;
+    height: 300px;
+    padding-right: 60px;
+    float: right;
+}
+.pro-3{
+
+    width: 30%;
+    height: 300px;
+    padding-right: 25px;
+    float: right;
+}
+.pro-3 img {
+    height: 300px;
+
+}
+
+.new h1 {
+    text-align: center;
+    font-size: 80px;
+    
+}
