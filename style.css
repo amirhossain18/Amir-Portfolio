@@ -246,6 +246,8 @@ footer p{
     padding-left: 30px;
     float: left;
 }
+
+
 .pro-2{
 
     width: 30%;
@@ -269,4 +271,64 @@ footer p{
     text-align: center;
     font-size: 80px;
     
+}
+
+.final{
+background-image: url(image/last-b.jpg);
+opacity: 50%;
+
+}
+.final h1{
+
+        margin: 7% auto;
+        font-size: 30px;
+        text-align: center;
+        color: rgb(255, 255, 255);
+
+}
+
+
+.final h4{
+
+    font-size: 15px;
+    padding-left: 600px;
+    color: rgb(255, 255, 255);
+
+}
+
+
+.final p {
+    font-size: 15px;
+    text-align: center;
+}
+.final-name h3{
+
+        font-size: 25px;
+        font-weight: bold;
+        margin-bottom: 5px;
+        text-align: center;
+        color: rgb(255, 255, 255);
+    }
+    
+.mail {
+
+    text-align: center;
+    background-image: linear-gradient( to right,#EC5093,#ED4B72);
+    width: 44%;
+    margin: 80px auto 135px;
+    padding: 20px 0;
+    border-radius: 15px;
+    color: #FEF2F5;
+}
+
+.mail p {
+font-size: 20px;
+color: rgb(210, 211, 231);
+ 
+} 
+
+.mail h2 {
+
+    font-size: 40px;
+ 
 }
