@@ -332,3 +332,14 @@ color: rgb(210, 211, 231);
     font-size: 40px;
  
 }
+.logo {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+
+}
+
+.logo img{
+    border-radius: 50%;
+    background-origin: shadow 5px green; 
+}
